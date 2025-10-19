@@ -1,0 +1,94 @@
+[
+  {
+    "type": "Mondstadt",
+    "items": [
+      { "name": "Vùng Núi Minh Quán", "price": "50K" },
+      { "name": "Đồi Phong Tiêu", "price": "50K" },
+      { "name": "Vực Sao Rơi", "price": "60K" },
+      { "name": "Cao Nguyên Thương Phong", "price": "70K" },
+      { "name": "Long Tích Tuyết Sơn", "price": "120K" }
+    ]
+  },
+  {
+    "type": "Liyue",
+    "items": [
+      { "name": "Bích Thuỷ Nguyên", "price": "60K" },
+      { "name": "Mân Lâm", "price": "60K" },
+      { "name": "Cửa Sông Quỳnh Cơ", "price": "60K" },
+      { "name": "Ngoại Ô Li Sa", "price": "60K" },
+      { "name": "Vân Lai Hải", "price": "60K" },
+      { "name": "Vực Đá Sâu", "price": "100K" },
+      { "name": "Vực Đá Sâu - Khu Mỏ Ngầm", "price": "100K" },
+      { "name": "Trầm Ngọc Cốc - Thượng Cốc", "price": "80K" },
+      { "name": "Trầm Ngọc Cốc - Nam Lăng", "price": "70K" },
+      { "name": "Lai Hâm Sơn", "price": "50K" }
+    ]
+  },
+  {
+    "type": "Inazuma",
+    "items": [
+      { "name": "Đảo Narukami", "price": "60K" },
+      { "name": "Kannazuka", "price": "60K" },
+      { "name": "Đảo Yashiori", "price": "60K" },
+      { "name": "Đảo Watatsumi", "price": "60K" },
+      { "name": "Đảo Seirai", "price": "60K" },
+      { "name": "Đảo Tsurumi", "price": "60K" },
+      { "name": "Enkanomiya", "price": "60K" }
+    ]
+  },
+  {
+    "type": "Sumeru",
+    "items": [
+      { "name": "Rừng Avidya", "price": "60K" },
+      { "name": "Rừng Lokapala", "price": "60K" },
+      { "name": "Thung Lũng Ardravi", "price": "60K" },
+      { "name": "Lãnh Địa Ashavan", "price": "60K" },
+      { "name": "Ngoại Ô Vissudha", "price": "60K" },
+      { "name": "Vanarana", "price": "60K" },
+      { "name": "Vườn Ươm Thất Lạc", "price": "10K" },
+      { "name": "Biển Cát Trụ Cột", "price": "80K" },
+      { "name": "Khu Xói Mòn Gió Lặng", "price": "80K" },
+      { "name": "Khu Xói Mòn Gió Nổi", "price": "80K" },
+      { "name": "Sa Mạc Hadramaveth", "price": "140K" },
+      { "name": "Gavireh Lajavard", "price": "90K" },
+      { "name": "Vườn Farakhkert", "price": "90K" }
+    ]
+  },
+  {
+    "type": "Fontaine",
+    "items": [
+      { "name": "Khu Đại Sảnh Fontaine", "price": "90K" },
+      { "name": "Khu Beryl", "price": "80K" },
+      { "name": "Khu Belleau", "price": "30K" },
+      { "name": "Khu Liffey", "price": "100K" },
+      { "name": "Khu Viện Nghiên Cứu Khoa Học Công Trình Động Năng Fontaine", "price": "100K" },
+      { "name": "Khu Rừng Erinnyes", "price": "100K" },
+      { "name": "Khu Morte", "price": "100K" },
+      { "name": "Khu Nostoi", "price": "30K" },
+      { "name": "Biển Kỷ Nguyên Cũ*", "price": "120K" }
+    ]
+  },
+  {
+    "type": "Natlan",
+    "items": [
+      { "name": "Lòng Chảo Vạn Hoả", "price": "60K" },
+      { "name": "Núi Coatepec", "price": "60K" },
+      { "name": "Thung Lũng Tequemecan", "price": "60K" },
+      { "name": "Suối Nguồn Toyac", "price": "60K" },
+      { "name": "Dãy Tezcatepetonco", "price": "60K" },
+      { "name": "Vách Quahuacan", "price": "60K" },
+      { "name": "Ochkanatlan", "price": "60K" },
+      { "name": "Atocpan", "price": "70K" },
+      { "name": "Núi Thánh Viễn Cổ", "price": "100K" },
+      { "name": "Khu Nghỉ Dưỡng Nhàn Nhã", "price": "120K" }
+    ]
+  },
+  {
+    "type": "Nod-Krai",
+    "items": [
+      { "name": "Đảo LempoLempo", "price": "90K" },
+      { "name": "Đảo HiisiHiisi", "price": "60K" },
+      { "name": "Đảo PrahaPraha", "price": "60K" }
+    ]
+  }
+]
